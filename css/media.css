@@ -1,0 +1,1024 @@
+@media(max-width:1400px) {
+    .banner .banner-detail h1 {
+        font-size: 70px;
+    }
+
+    .banner img {
+        height: 550px;
+    }
+
+    .our-services .swiper-button-prev {
+        left: 75%;
+    }
+
+    .our-services .swiper-button-next {
+        right: 11%;
+    }
+
+    .contact-us .card h2 {
+        font-size: 38px;
+        max-width: 280px;
+    }
+
+    .contact-us .col-lg-6 img {
+        margin-top: -27%;
+        margin-left: -26%;
+        max-width: 680px;
+    }
+
+    .about-team .card h2 {
+        font-size: 18px;
+    }
+
+    .newsletter .col-lg-6 img {
+        margin-top: -7%;
+        margin-left: -15%;
+        max-width: 650px;
+    }
+
+    .newsletter .card-deatil {
+        padding: 60px 72px;
+    }
+
+    .newsletter .btn-primary {
+        width: 29%;
+        right: 17%;
+    }
+
+    .Latest-Articles .articles-btn {
+        margin-left: 20%;
+    }
+
+}
+
+@media(max-width:1200px) {
+    .banner .banner-detail h1 {
+        font-size: 58px;
+    }
+
+    .banner .marketing {
+        padding-left: 20%;
+    }
+
+    .banner .line {
+        top: 23%;
+    }
+
+    .our-services .services {
+        padding-left: 10%;
+    }
+
+    .our-services .swiper-button-prev {
+        left: 74%;
+    }
+
+    .our-services .swiper-button-next {
+        right: 11%;
+    }
+
+    .about-us h5,
+    .about-us p {
+        font-size: 16px;
+    }
+
+    .contact-us .col-lg-6 img {
+        margin-top: -21%;
+        margin-left: -25%;
+        max-width: 590px;
+    }
+
+    .case-studies .line {
+        display: none;
+    }
+
+    .case-studies .studie {
+        padding-left: 0px;
+    }
+
+    .case-studies .card .card-img img {
+        width: 450px;
+        height: 400px;
+    }
+
+    .about-team .display-4 {
+        font-size: 35px;
+    }
+
+    .about-team .team-heading h1 {
+        font-size: 55px;
+    }
+
+    .contact-us1 .line {
+        top: 15%;
+    }
+
+    .contact-us1 .col-lg-6 img {
+        margin-top: 20%;
+        margin-left: -13%;
+        max-width: 591px;
+    }
+
+    .footer .footer-detail .b-btn {
+        top: 38%;
+        right: 7%;
+    }
+
+    .footer-1 .detail-1 i {
+        margin-left: 22px;
+        margin-top: 20px;
+    }
+
+    .our-mission .line {
+        display: none;
+    }
+
+    .our-mission .mission {
+        padding-left: 0%;
+    }
+
+    .our-mission img {
+        width: 485px;
+        height: 351px;
+        object-fit: cover;
+    }
+
+    .our-team .team {
+        padding-left: 17%;
+    }
+
+    .the-press .card-2 {
+        padding: 90px 40px 58px;
+    }
+
+    .the-press .card-1,
+    .the-press .card-3 {
+        padding: 90px 40px 80px;
+    }
+
+    .team-heading h1 {
+        font-size: 60px;
+    }
+
+    .newsletter .col-lg-6 img {
+        margin-top: -7%;
+        margin-left: -15%;
+        max-width: 580px;
+    }
+
+    .newsletter .card-deatil {
+        padding-bottom: 0;
+    }
+
+    .newsletter .card h2 {
+        font-size: 47px;
+    }
+
+    .newsletter .btn-primary {
+        width: 36%;
+        right: 21%;
+    }
+
+    .blog-page .blog-details h2 {
+        font-size: 25px;
+    }
+
+    .blog-page .card-12 {
+        padding-bottom: 0px;
+    }
+
+    .Latest-Articles .articles-btn {
+        margin-left: 8%;
+    }
+    .a-guote .quote {
+        padding-left: 22%;
+    }
+
+
+}
+
+@media(max-width:992px) {
+    header .b-btn{
+        padding: 18px 18px;
+    }
+    .banner .banner-detail h1 {
+        font-size: 60px;
+        text-align: center;
+    }
+
+    .banner .banner-detail p {
+        max-width: 617px;
+        text-align: center;
+        padding-left: 73px;
+    }
+
+    .banner .banner-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .banner .banner-btn .b-btn,
+    .banner .banner-btn .b1-btn {
+        padding: 22px 35px;
+    }
+
+    .banner .marketing {
+        padding-left: 10px;
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .banner .col-lg-6 .line {
+        display: none;
+    }
+
+    .banner img {
+        margin-top: 25px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .our-services .services {
+        padding-left: 0;
+        font-size: 16px;
+    }
+
+    .our-services .services-heading h2 {
+        font-size: 42px;
+    }
+
+    .our-services .card-detail .card {
+        padding: 50px 25px 32px;
+    }
+
+    .our-services .swiper-button-prev {
+        left: 79%;
+    }
+
+    .our-services .swiper-button-next {
+        right: 0%;
+    }
+
+    .our-services .services-heading .line {
+        display: none;
+    }
+
+    .our-services .swiper-slide {
+        width: 390px !important;
+    }
+
+    .our-services .card-detail {
+        margin-left: 0px;
+    }
+
+    .contact-us .line {
+        display: none;
+    }
+
+    .contact-us .contact {
+        padding-left: 0px;
+    }
+
+    .contact-us .col-lg-6 .card-deatil {
+        padding: 80px 60px 60px;
+    }
+
+    .contact-us .card h2 {
+        max-width: 100%;
+    }
+
+    .contact-us .card-deatil .b-btn {
+        margin-top: 10px;
+    }
+
+    .contact-us .col-lg-6 img {
+        margin-top: 9%;
+        margin-left: 10%;
+        max-width: 570px;
+    }
+
+    .case-studies .case-detail h2 {
+        text-align: center;
+        max-width: 706px;
+        font-size: 40px;
+    }
+
+    .case-studies .studie-btn .b-btn,
+    .case-studies .studie-btn .b1-btn {
+        padding: 21px 32px;
+    }
+
+    .case-studies .studie {
+        display: flex;
+        justify-content: center;
+    }
+
+    .case-studies .studie-btn {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .contact-us1 .line {
+        display: none;
+    }
+
+    .contact-us1 .contact {
+        padding-left: 0;
+    }
+
+    .contact-us1 .col-lg-6 img {
+        margin-top: 0;
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .testi .col-6 {
+        width: 28%;
+    }
+
+    .testi .card {
+        width: 700px;
+    }
+
+    .testi .swiper-button-prev {
+        left: 37%;
+    }
+
+    .about-team .card {
+        margin-top: 10px;
+    }
+
+    .about-team .card-2,
+    .about-team .card-3 {
+        padding-bottom: 55px;
+    }
+
+    .mission-heading {
+        text-align: center;
+    }
+
+    .our-mission .mission {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .our-mission .mission-heading h3 {
+        font-size: 42px;
+    }
+
+    .our-mission .mission-heading p {
+        font-size: 16px;
+    }
+
+    .our-mission .mission-heading .b-btn {
+        padding: 20px 20px;
+    }
+
+    .our-mission img {
+        margin-top: 30px;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .our-values .card-1 {
+        margin-bottom: 20px;
+    }
+
+    .offices::after {
+        min-height: 0;
+    }
+
+    .our-offices .offices-heading {
+        text-align: center;
+    }
+
+    .our-offices .offices-heading h1 {
+        font-size: 45px;
+        margin: 0 auto;
+    }
+
+    .our-offices .offices-heading p {
+        margin-left: 0;
+        margin-top: 3%;
+        margin: 0 auto;
+    }
+
+    .our-team .team::after {
+        min-height: 0px;
+    }
+
+    .our-team .team {
+        padding-left: 0;
+    }
+
+    .our-team .our-team-heading {
+        text-align: center;
+    }
+
+    .our-team .our-team-heading p {
+        font-size: 16px;
+        margin: 0 auto;
+    }
+
+    .our-team .card-1 {
+        margin-top: 30px;
+    }
+
+    .our-team .card-2 {
+        margin-top: 64px;
+    }
+
+    .the-press .card {
+        padding: 49px 30px 50px;
+        margin-bottom: 20px;
+    }
+
+    .the-press .press-detail p {
+        margin: 0;
+        font-size: 16px;
+    }
+
+    .the-press .link-text i {
+        padding-top: 25px;
+    }
+
+    .newsletter .card-deatil {
+        text-align: center;
+    }
+
+    .newsletter .input {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .newsletter .btn-primary {
+        width: 31%;
+        right: 1%;
+    }
+
+    .newsletter .col-lg-6 img {
+        margin: 0 auto;
+        margin-top: 58px;
+        margin-left: 53px;
+    }
+
+    .blog-page .card {
+        margin-bottom: 25px;
+    }
+
+    .blog-page .input {
+        width: 80%;
+    }
+
+    .blog-page .btn-primary {
+        right: 11%;
+    }
+
+    .blog-page .blog-details span {
+        margin-left: 100px;
+    }
+
+    .blog-page .card-11 {
+        padding-bottom: 4px;
+    }
+
+    .blog-page .team-heading h1 {
+        font-size: 55px;
+    }
+
+    .Latest-Articles .Articles-detail {
+        display: block;
+        text-align: center;
+    }
+    .footer .footer-detail h2{
+        font-size: 33px;
+        max-width: 466px;
+        margin: 0 auto;
+    }
+    .footer .footer-detail .b-btn {
+        top: 66%;
+        right: 34%;
+        padding: 17px 22px;
+    }
+    .footer .card {
+        padding: 65px 11px 86px 70px;
+    }
+    .footer-1 .detail-2,
+    .footer-1 .detail-3 {
+        padding-top: 30px;
+    }
+    .footer-1 li {
+        font-size: 16px;
+    }
+    .contact-01-heading h3 {
+        font-size: 50px;
+    }
+    .contact-us-01 .contact-01{
+        font-size: 16px;
+    }
+    .contact-us-01 img{
+        padding-top: 50px;
+    }
+    
+    .a-guote .line {
+        display: none;
+    }
+    .a-guote .quote {
+        padding-left: 0;
+        padding-top: 80px;
+        justify-content: center;
+    }
+   
+    .a-guote .quote-heading h2{
+        margin: 0 auto;
+    }
+    .a-guote .quote-heading p{
+        max-width: 630px;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .a-guote .card {
+        margin-top: 20px;
+        margin: 0 auto;
+
+    }
+    .a-guote .quote-card .col-lg-3,
+    .a-guote .quote-card .col-lg-8 h3,
+    .a-guote .quote-card .col-lg-8 p{
+        display: flex;
+        justify-content: center;
+    }
+    .a-guote .quote-card .col-lg-8 h3{
+        margin-top: 10px;
+    }
+    .increase h1 {
+        font-size: 60px;
+    }
+    .related-posts  h2 {
+        font-size: 35px;
+    }
+
+}
+
+@media(max-width:768px) {
+    .banner .banner-detail {
+        text-align: center;
+    }
+
+    .banner .banner-btn .b-btn,
+    .banner .banner-btn .b1-btn {
+        padding: 17px 26px;
+    }
+
+    .our-services .swiper-button-prev {
+        top: 105%;
+        left: 44%;
+        margin-top: 5px;
+    }
+
+    .our-services .swiper-button-next {
+        right: 27%;
+        top: 105%;
+        margin-top: 5px;
+    }
+
+    .our-services .services-btn .b-btn,
+    .our-services .services-btn .b1-btn {
+        margin-top: 60px;
+        padding: 22px 25px;
+    }
+
+    .about-us .about-btn .b-btn {
+        padding: 22px 32px;
+    }
+
+    .contact-us .b-btn {
+        padding: 22px 32px;
+    }
+
+    .contact-us .col-lg-6 img {
+        max-width: 450px;
+    }
+
+    .contact-us1 .card h2 {
+        font-size: 35px;
+    }
+
+    .contact-us1 .b-btn {
+        padding: 18px 20px;
+    }
+
+    .testi .col-6 {
+        width: 100%;
+    }
+
+    .testi .card {
+        width: 530px;
+        height: 577px;
+        text-align: center;
+    }
+
+    .about-team .card-2,
+    .about-team .card-3 {
+        padding-bottom: 85px;
+    }
+
+    .carousel-control-next {
+        position: relative;
+        top: 1%;
+        left: 55%;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+
+    .carousel-control-prev {
+        position: absolute;
+        top: 94%;
+        left: 32%;
+        font-size: 20px;
+    }
+
+    .our-process .carousel-inner {
+        flex-wrap: wrap;
+    }
+
+    .our-process .card-detail {
+        padding: 54px 69px 42px 43px;
+        margin: 0 auto;
+    }
+
+    .servies-page .card-detail .card {
+        padding: 30px 20px 35px;
+    }
+
+    .newsletter .col-lg-6 img {
+        max-width: 442px;
+    }
+
+    .articles-btn .b1-btn {
+        padding: 10px 23px;
+    }
+
+    .Latest-Articles .articles-btn {
+        margin-left: 3%;
+    }
+    .increase h1 {
+        font-size: 60px;
+    }
+    .related-posts  h2 {
+        font-size: 30px;
+        padding-bottom: 83px;
+    }
+    .related-posts .blog-btn .b1-btn{
+        padding: 14px 18px;
+        text-align: center;
+    }
+   
+       
+}
+
+@media(max-width:576px) {
+    .banner .banner-detail h1 {
+        font-size: 50px;
+    }
+
+    .banner .banner-detail p {
+        font-size: 16px;
+    }
+
+    .banner .banner-btn .b-btn,
+    .banner .banner-btn .b1-btn {
+        padding: 17px 26px;
+    }
+
+    .our-services .services-btn .b-btn,
+    .our-services .services-btn .b1-btn {
+        padding: 17px 26px;
+    }
+
+    .about-us h2 {
+        font-size: 35px;
+    }
+
+    .about-us .about-btn .b-btn {
+        width: 100%;
+    }
+
+    .contact-us .col-lg-6 img {
+        max-width: 446px;
+        margin-left: 6%;
+    }
+
+    .case-studies .studie-btn {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+
+    .case-studies .studie-btn .b-btn,
+    .case-studies .studie-btn .b1-btn {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .about-team .team-heading h1 {
+        font-size: 42px;
+    }
+
+    .about-team .team-heading h6,
+    .about-team .team-heading p {
+        font-size: 16px;
+    }
+
+    .about-team .card {
+        padding: 35px 20px 25px;
+    }
+
+    .testi .card {
+        width: 476px;
+        padding: 58px 16px;
+    }
+
+    .testi .swiper-slide {
+        margin-left: 14px;
+    }
+
+    .our-mission img {
+        margin-top: 30px;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .our-team .b-btn {
+        padding: 18px 18px;
+
+    }
+
+    .our-team .card img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .our-team .card-img {
+        text-align: center;
+    }
+
+    .our-team .card-2,
+    .our-team .card-3,
+    .our-team .card-4 {
+        margin-top: 25px;
+    }
+
+    .our-team .team-detail h3 {
+        font-size: 20px;
+    }
+
+    .our-team .team-detail p {
+        font-size: 16px;
+    }
+
+    .team-heading h1 {
+        font-size: 50px;
+    }
+    .contact-us-01 .b-btn{
+        padding: 18px 40px;
+    }
+
+
+}
+
+@media(max-width:525px) {
+    header .b-btn{
+        padding: 10px 10px;
+        font-size: 16px;
+    }
+    .testi .card {
+        width: 418px;
+
+    }
+
+    .testi .card-detail h5 {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .testi .card-detail p {
+        width: 328px;
+        margin: 0 auto;
+        font-size: 16px;
+    }
+
+    .testi .swiper-slide {
+        margin-left: 38px;
+    }
+
+    .newsletter .btn-primary {
+        width: 34%;
+    }
+
+    .newsletter .col-lg-6 img {
+        max-width: 400px;
+    }
+
+    .newsletter .card h2 {
+        font-size: 35px;
+    }
+
+    .newsletter .input {
+        height: 50%;
+    }
+
+    .newsletter .btn-primary {
+        height: 50%;
+        top: 47%;
+    }
+
+    .Latest-Articles .articles-btn {
+        margin-left: -1%;
+    }
+    .increase h1 {
+        font-size: 40px;
+    }
+}
+
+@media(max-width:480px) {
+    .banner {
+        padding-top: 45px;
+    }
+
+    .banner .banner-detail h1 {
+        font-size: 40px;
+    }
+
+    .banner .banner-detail p,
+    .banner .banner-detail .marketing {
+        font-size: 14px;
+    }
+
+    .banner .banner-btn {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .banner .banner-btn .b-btn,
+    .banner .banner-btn .b1-btn {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .banner .banner-btn .b1-btn{
+        margin-left:40px;
+    }
+
+    .banner img {
+        width: 90%;
+    }
+
+    .our-services .card-detail .card {
+        padding: 29px 22px 25px;
+        text-align: center;
+    }
+
+    .our-services .card-detail {
+        margin-left: 98px;
+    }
+
+    .testi .card {
+        width: 363px;
+        padding: 30px 11px;
+    }
+
+    .testi .swiper-slide {
+        margin-left: 0px;
+    }
+
+    .testi .card-detail h5 {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .testi .card-detail p {
+        width: 328px;
+        margin: 0 auto;
+        font-size: 16px;
+    }
+
+    .blog .blog-heading h2 {
+        font-size: 35px;
+        max-width: 746px;
+        margin: 0 auto;
+    }
+
+    .blog .blog-heading h5 {
+        font-size: 16px;
+    }
+
+    .blog .blog-btn {
+        display: inline;
+        text-align: center;
+    }
+
+    .blog-btn .b1-btn {
+        width: 100%;
+        margin-top: 20px;
+        padding: 18px 18px;
+    }
+
+    .our-values .value-btn .b-btn {
+        padding: 18px 18px;
+        font-size: 16px;
+    }
+
+    .servies-page .card-detail .card {
+        margin-left: -25px;
+    }
+
+    .newsletter .btn-primary {
+        width: 100%;
+        top: 106%;
+    }
+
+    .newsletter .col-lg-6 img {
+        margin-top: 75px;
+        margin-left: 20px;
+        max-width: 400px;
+    }
+
+    .articles-btn .b1-btn {
+        padding: 7px 10px;
+    }
+    .increase .increase-detail h2 {
+        font-size: 33px;
+    }
+    .increase .increase-detail .card-00 p {
+        font-size: 18px;
+}
+}
+
+@media(max-width:513px) {
+    .articles-btn .b1-btn {
+        padding: 7px 10px;
+    }
+    .increase h1 {
+        font-size: 50px;
+    }
+
+}
+
+@media(max-width:460px) {
+    .our-services .services-heading {
+        text-align: center;
+    }
+    .our-services .services{
+      justify-content: center;
+    }
+    .newsletter .col-lg-6 img {
+        max-width: 300px;
+        margin-top: 89px;
+        margin-left: 42px;
+    }
+    .our-services .swiper-button-prev {
+        left:37%;
+    }
+    .testi .swiper-button-prev {
+        left: 31%;
+    }
+    .our-services .swiper-slide {
+        margin-left: -63px;
+    }
+    .footer .footer-detail .b-btn{
+        top:73%;
+    }
+    .increase h1 {
+        font-size: 30px;
+    }
+
+}
+@media(max-width:436px) {
+    .our-services .services-btn{
+      flex-direction: column;
+      width: 100%;
+      margin: 0 auto;
+      text-align: center;
+    }
+    .our-services .services-btn .b1-btn{
+        margin-top: 13px;
+        width: 100%;
+
+    }
+}
+
+@media(max-width:400px) {
+    .banner .banner-detail h1 {  
+        font-size: 30px;
+    } 
+
+}
+    
